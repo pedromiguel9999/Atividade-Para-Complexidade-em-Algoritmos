@@ -1,12 +1,11 @@
 
-# 📘 Atividade — Complexidade em Algoritmos
+Complexidade em Algoritmos
 
-**Autor:** Pedro Miguel  
-**Data:** 21/10/2025  
-**Linguagem:** Python  
-**Tema:** Complexidade de Algoritmos (Notação Big-O)
+ Pedro Miguel  
 
----
+
+
+
 
  Objetivo
 
