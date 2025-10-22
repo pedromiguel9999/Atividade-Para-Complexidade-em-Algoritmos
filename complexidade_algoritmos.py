@@ -2,11 +2,11 @@
 Atividade — Complexidade em Algoritmos
 ======================================
 
-Autor: Pedro Miguel
-Data: 21/10/2025
+Pedro Miguel
+
 
 Descrição:
-Este arquivo contém três exemplos de algoritmos Python
+O arquivo contém três exemplos de algoritmos Python
 com diferentes níveis de complexidade (Notação Big-O).
 São eles:
 1. O(1) — Acesso constante a um elemento;
@@ -28,7 +28,7 @@ def acesso_constante(lista):
     return None
 
 
-# Teste
+# Testando 
 if __name__ == "__main__":
     valores = [10, 20, 30, 40]
     print("Primeiro elemento:", acesso_constante(valores))
@@ -49,7 +49,7 @@ def soma_lista(lista):
     return soma
 
 
-# Teste
+# Testando
 if __name__ == "__main__":
     valores = [1, 2, 3, 4, 5, 6]
     print("Soma da lista:", soma_lista(valores))
@@ -71,7 +71,7 @@ def possui_duplicados(lista):
     return False
 
 
-# Testes
+# Testando
 if __name__ == "__main__":
     print("Lista [1, 2, 3, 4] tem duplicados?", possui_duplicados([1, 2, 3, 4]))
     print("Lista [1, 2, 3, 1] tem duplicados?", possui_duplicados([1, 2, 3, 1]))
